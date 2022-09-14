@@ -72,9 +72,7 @@
       <div class="container">
         <div class="row g-0 background align-items-center wow fadeInUp animated">
           <div class="col-lg-5">
-            <div class="map"> <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.8404599049227!2d144.95373931584484!3d-37.81720574201434!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d4c2b349649%3A0xb6899234e561db11!2sEnvato!5e0!3m2!1sen!2sbd!4v1643890073627!5m2!1sen!2sbd"
-                allowfullscreen="" loading="lazy"></iframe> </div>
+            <div class="map"> <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d611.0331322815574!2d76.90583163490547!3d43.23926907596599!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3883693aedadfeb3%3A0xce1a75dbb1758de3!2z0L_RgC3Rgi4g0JDQsdCw0Y8gNjgsINCQ0LvQvNCw0YLRiyAwNTAwMDg!5e0!3m2!1sru!2skz!4v1662980775522!5m2!1sru!2skz" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> </div>
           </div>
           <div class="col-lg-7">
             <div class="contact-form">
@@ -83,11 +81,11 @@
                 <div class="row">
                   <div class="col-lg-6">
                     <div class="form-group"> <label for="name"> Ваше имя</label> <input type="text"
-                                                                                         id="name" class="form-control" placeholder="David Warner"> </div>
+                                                                                         id="name" class="form-control" placeholder="Ваше имя"> </div>
                   </div>
                   <div class="col-lg-6">
                     <div class="form-group"> <label for="number"> Номер телефона </label> <input
-                        type="text" id="number" class="form-control" placeholder="+61"> </div>
+                        type="text" id="number" class="form-control" placeholder="+7"> </div>
                   </div>
                   <div class="col-lg-6">
                     <div class="form-group"> <label for="email"> Email Address </label> <input
@@ -96,7 +94,7 @@
                   </div>
                   <div class="col-12">
                     <div class="form-group m-0"> <label for="email"> Ваше сообщение </label>
-                      <textarea placeholder="Hi, Good Afternoon..."></textarea> </div>
+                      <textarea placeholder="Ваще сообщение"></textarea> </div>
                   </div>
                 </div> <button type="submit" class="btn--primary style2 ">Отправить сообщение </button>
               </form>
